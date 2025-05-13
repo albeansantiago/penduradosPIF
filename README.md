@@ -1,8 +1,8 @@
 DESENVOLVIDO POR:
 
-Albean Santiago (@albeansantiago)
-Deyvison Conrado (dmc2@cesar.school)
-Joyce Cristine (jcs3@cesar.school)
+  - Albean Santiago (@albeansantiago)
+  - Deyvison Conrado (dmc2@cesar.school)
+  - Joyce Cristine (jcs3@cesar.school)
 
 PIF - Programação Imperativa e Funcional - 2025.1
 
