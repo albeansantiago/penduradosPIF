@@ -27,7 +27,7 @@ REGRAS
      - Um jogador digita uma palavra secreta (sem que o outro veja).
      - O outro jogador tenta adivinhar a palavra letra por letra.
   3. Cada jogador tem apenas 6 tentativas erradas por rodada.
-  4. A cada letra errada, uma parte do boneco da forca é desenhada (modo texto ou visual ASCII).
+  4. A cada letra errada, uma parte do boneco da forca é desenhada.
   5. Letras já tentadas não contam como erro se forem repetidas.
   6. A palavra deve conter apenas letras (sem espaços ou números).
   7. O jogo pode ser jogado por um número pré-definido de rodadas (ex: 3 para cada jogador).
